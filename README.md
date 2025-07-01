@@ -12,7 +12,7 @@ The goal of this project was to apply analytical techniques to evaluate the retu
 
 <!--- - [View the HR dashboard here](#) -->
 - [View the Python script to generate the data here](#)
-- [View the analysis script here](#)
+- [View the analysis script here](https://github.com/luciaplacidi/L-D-Budget-Analysis/blob/main/ld_analysis.ipynb)
 
 ## Data Structure
 

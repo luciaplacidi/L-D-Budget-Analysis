@@ -11,7 +11,7 @@ One key observation from the dashboard was that approximately 70% of active empl
 The goal of this project was to apply analytical techniques to evaluate the return on L&D investment, uncovering actionable insights for HR and leadership teams.
 
 <!--- - [View the HR dashboard here](#) -->
-- [View the Python script to generate the data here](#)
+- [View the Python script to generate the data here](https://github.com/luciaplacidi/L-D-Budget-Analysis/blob/main/people_data.ipynb)
 - [View the analysis script here](https://github.com/luciaplacidi/L-D-Budget-Analysis/blob/main/ld_analysis.ipynb)
 
 ## Data Structure
